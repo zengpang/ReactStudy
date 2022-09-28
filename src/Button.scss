@@ -1,0 +1,9 @@
+$color:red;
+.btn-group{
+  display: flex;
+}
+.btn{
+    display: inline-block;
+    border: 1px solid $color;
+    padding: 3px;
+}
